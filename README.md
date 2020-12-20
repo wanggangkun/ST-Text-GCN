@@ -1,10 +1,10 @@
-## ST-Text-GCN
+# ST-Text-GCN
 Code for paper "Self-training Method Based on GCN for Semi-supervised Short Text Classification"
-## Require
+# Require
 Python
 
 PyTorch
-### Reproducing Results
+# Reproducing Results
 Take the Ohsumed dataset as an example, other datasets are similar, number of round is 2.
 ```bash
 cd data/Ohsumed/raw
